@@ -18,9 +18,11 @@ Our analysis revealed that the most significant factors affecting readmission in
 
 ## Visualizations
 
-- [im1.png](link_to_image1) 
-- [im2.png](link_to_image2) 
-- [im3.png](link_to_image3)
+- [Average of Hospital Readmission by Age](https://github.com/ZachData/Hospital_Readmission/blob/main/im1.png) 
+- [Probability of Readmission Based on Number of Lab Procedures](https://github.com/ZachData/Hospital_Readmission/blob/main/im2.png) 
+- Probability of Readmission Based on Diagnoses
+![image](https://github.com/user-attachments/assets/848b9651-bebb-468c-a22c-0fdb845c492e)
+
 
 ## Conclusion
 
