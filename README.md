@@ -2,6 +2,9 @@
 
 In this analysis, we explore Kaggle's hospital readmission data to identify the key factors predicting patient readmission. The dataset includes the following columns: `age`, `time_in_hospital`, `n_lab_procedures`, `n_procedures`, `n_medications`, `n_outpatient`, `n_inpatient`, `n_emergency`, `medical_specialty`, `diag_1`, `diag_2`, `diag_3`, `glucose_test`, `A1Ctest`, `change`, `diabetes_med`, and `readmitted`. Our goal is to determine which variables are most indicative of a patient being readmitted to the hospital.
 
+Data found at:
+https://www.kaggle.com/datasets/dubradave/hospital-readmissions
+
 ## Methodology
 
 ### Exploratory Data Analysis
