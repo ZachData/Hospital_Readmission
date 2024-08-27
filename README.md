@@ -17,12 +17,9 @@ We created various visualizations to provide a clearer understanding of the data
 Our analysis revealed that the most significant factors affecting readmission include `age`, `n_lab_procedures`, and the categorical diagnoses of diabetes observed on multiple occasions. We used averaging and normalization techniques to ensure that the data was comparable across different scales and distributions.
 
 ## Visualizations
-
-- [Average of Hospital Readmission by Age](https://github.com/ZachData/Hospital_Readmission/blob/main/im1.png) 
-- [Probability of Readmission Based on Number of Lab Procedures](https://github.com/ZachData/Hospital_Readmission/blob/main/im2.png) 
-- Probability of Readmission Based on Diagnoses
-![image](https://github.com/user-attachments/assets/848b9651-bebb-468c-a22c-0fdb845c492e)
-
+![Chart 1](im1.png)
+![Chart 2](im2.png)
+![Chart 3](im3.png)
 
 ## Conclusion
 
